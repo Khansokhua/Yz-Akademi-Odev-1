@@ -1,0 +1,7 @@
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\bin\Debug\Yz_Akademi_Ödev1.exe.config
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\bin\Debug\Yz_Akademi_Ödev1.exe
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\bin\Debug\Yz_Akademi_Ödev1.pdb
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\obj\Debug\Yz_Akademi_Ödev1.csprojAssemblyReference.cache
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\obj\Debug\Yz_Akademi_Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\obj\Debug\Yz_Akademi_Ödev1.exe
+C:\Users\BUĞRAHAN BARIŞIK\source\repos\Yz_Akademi_Ödev1\Yz_Akademi_Ödev1\obj\Debug\Yz_Akademi_Ödev1.pdb
